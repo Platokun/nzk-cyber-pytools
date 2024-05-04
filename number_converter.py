@@ -1,4 +1,6 @@
-# i took many hours trying to figure out how to use __dunder__ methods  and @decorators because this morning i watched a video on them when i woke up so instead of doing it the easy way im im finguring it out.
+# i took many hours trying to figure out how to use __dunder__ methods and @decorators because this morning i watched a video on them when i woke up
+# i still dont quite get it but hay its been used once
+# so instead of doing it the easy and long way im finguring it out.
 #ive also never f ully understood classes nor why you'd use them so i just tried to use em here to practice for making things easier in the future
 class Converter:
     def __init__(self, input_format: str = "", output_format: str = "", value: str = "") -> None:
